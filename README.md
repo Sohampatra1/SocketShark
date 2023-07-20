@@ -49,6 +49,12 @@ Then, in a new terminal window, run the client:
 start multiple client-server like client1 client2 etc,
 You can now start sending messages from one client to another client, and all messages will show in the server section.
 
+## Result
+![Loading](https://github.com/Sohampatra1/SocketShark/blob/main/ss_AdobeExpress.gif)
+
+
+
+
 ## Contributing
 
 Contributions are welcome. Please open an issue to discuss your idea or submit a Pull Request.
